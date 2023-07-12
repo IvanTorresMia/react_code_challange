@@ -1,0 +1,1 @@
+export const primaryPurple = "#8154DA"
